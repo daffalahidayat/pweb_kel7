@@ -1,0 +1,15 @@
+FILES data: Array
+(
+    [foto] => Array
+        (
+            [name] => Sapi.jpg
+            [full_path] => Sapi.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA720.tmp
+            [error] => 0
+            [size] => 25934
+        )
+
+)
+
+
